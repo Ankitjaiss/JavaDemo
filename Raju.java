@@ -6,5 +6,7 @@ public class Raju {
         result=((a>b)?((a>c)?a:c):(b>c)?b:c);
         System.out.println(result);
 
+        
+
     }
 }
